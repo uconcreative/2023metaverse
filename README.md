@@ -23,3 +23,4 @@ https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
 - [googleDrive]()
 - [githubSource]()
 - [UnityProject]()
+- [sampleScene](https://github.com/uconcreative/2023metaverse/issues/1#issue-1764409985)
