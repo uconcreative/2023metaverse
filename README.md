@@ -18,3 +18,8 @@ sof: https://stackoverflow.com/questions/73841388/how-can-i-finetune-a-model-fro
 https://huggingface.co/docs/datasets/audio_dataset
 
 https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
+
+## download, to be added soon
+- [googleDrive]()
+- [githubSource]()
+- [UnityProject]()
