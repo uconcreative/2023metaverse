@@ -10,8 +10,17 @@
 - First OT; June 20, 2023
 - Mid-term OT;
 - PT;
-
-
+- Official schedule
+```
+6.15 - 9.26 지원
+8.15 접수마감
+~ 8.23 1차 평가
+~ 8. 30 2차 평가
+8.31 ~ 9.21 맨토링
+9.22 3차 평가
+9.26 최종평가
+10월 중 시상 (킨텍스)
+```
 ## skillset
 Ideal skills and experience for this assignment include:
 - Experience with Flask, Python, and Hugging Face
@@ -34,6 +43,7 @@ https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
 
 ## Evaluation Category
 항목별 배점과 구체적인 평가 항목은 중간 OT후 공개 하겠습니다. (주요 기능단위 정성/정량 평가 방법)
+(기획, 과제 수행, 완성도)
 ### Alogrithm
 - Dataset processing and streaming on chosen topics for maching-learning
 - Fast response time on Android
