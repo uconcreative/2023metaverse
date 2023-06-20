@@ -24,3 +24,18 @@ https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
 - [githubSource]()
 - [UnityProject]()
 - [sampleScene](https://github.com/uconcreative/2023metaverse/issues/1#issue-1764409985)
+
+## Evaluation Category
+### Alogrithm
+- Fast response time on Android
+- Accuracy rate with NLP (WER)
+- Fine-tuning, smart-caching and memory-mapping structure
+### UI
+- User-friendly interface for fine-tuning endpoints
+- Client interface, how to make it simple and intuitive!
+
+### Character rigging
+- AI-docent, NPC acting based on deep-leaerning toolkits such as Mediapipe
+- MICE, scriber on voice-to-text and voice-to-voice translation
+
+
