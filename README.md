@@ -28,6 +28,7 @@ https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
 ## Evaluation Category
 항목별 배점과 구체적인 평가 항목은 중간 OT후 공개 하겠습니다. (주요 기능단위 정성/정량 평가 방법)
 ### Alogrithm
+- Dataset processing and streaming on chosen topics for maching-learning
 - Fast response time on Android
 - Accuracy rate with NLP (WER)
 - Fine-tuning, smart-caching and memory-mapping structure
