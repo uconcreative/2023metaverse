@@ -16,3 +16,5 @@ The primary feature desired for the Flaskapp is the ability to connect with the 
 sof: https://stackoverflow.com/questions/73841388/how-can-i-finetune-a-model-from-openais-whisper-asr-on-my-own-training-data
 
 https://huggingface.co/docs/datasets/audio_dataset
+
+https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
