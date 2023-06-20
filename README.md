@@ -6,7 +6,7 @@
 - 안드로이드 (스마트 디바이스)
 - 교육 메타버스 플랫폼 ‘에듀 트레인’ 부분 월드 유니티 프로젝트 (샘플씬) 제공
 ## skillset
-Ideal skills and experience for this assignemnt include:
+Ideal skills and experience for this assignment include:
 - Experience with Flask, Python, and Hugging Face
 - Understanding of audio processing
 - Ability to integrate API endpoints
