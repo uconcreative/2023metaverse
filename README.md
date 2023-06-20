@@ -34,7 +34,7 @@ https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
 - Fine-tuning, smart-caching and memory-mapping structure
 ### UI
 - User-friendly interface for fine-tuning endpoints
-- Client interface, how to make it simple and intuitive!
+- Client interface, how to make it simple and intuitive once deployed!
 
 ### Character rigging
 - AI-docent, NPC acting based on deep-leaerning toolkits such as Mediapipe
