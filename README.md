@@ -26,7 +26,7 @@ https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
 - [sampleScene](https://github.com/uconcreative/2023metaverse/issues/1#issue-1764409985)
 
 ## Evaluation Category
-항목별 배점과 구체적인 평가 항목은 중간 OT후 공개 하겠습니다. (주요 기능단위 평가 방법)
+항목별 배점과 구체적인 평가 항목은 중간 OT후 공개 하겠습니다. (주요 기능단위 정성/정량 평가 방법)
 ### Alogrithm
 - Fast response time on Android
 - Accuracy rate with NLP (WER)
