@@ -36,9 +36,9 @@ https://huggingface.co/docs/datasets/audio_dataset
 https://huggingface.co/spaces/aiegoo/whisper-chatbot-ko/discussions
 
 ## download, to be added soon
-- [googleDrive]()
-- [githubSource]()
-- [UnityProject]()
+- [googleDrive](https://drive.google.com/file/d/1My8fqpkPFuwVaoc8ha7zZlrRdB0RkFcB/view?usp=drive_link)
+- [githubSource](https://github.com/uconcreative/2023metaverse)
+- [voice-based ChatGPT]()
 - [sampleScene](https://github.com/uconcreative/2023metaverse/issues/1#issue-1764409985)
 
 ## Evaluation Category
